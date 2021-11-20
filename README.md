@@ -5,6 +5,13 @@
 - The shorter for hour, while the longer for minutes
 - The Digital clock view, which is also a subclass of View class uses numbers
 - The Digital clock displays time in the format "HH:MM"
+
+### Steps
+- Start Android studio and select empty layout, click finish
+- Change layout to "RelativeLayout" layout
+- Add two Views, "AnalogClock" and "DigitalClock"
+- Customize layouts as desired, fix constraints, add text color and background as desired
+- Run emulator to see <strong>Results</strong>
 ### Layout Script
 
 <code>
