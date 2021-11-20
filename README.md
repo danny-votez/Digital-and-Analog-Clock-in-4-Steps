@@ -7,7 +7,7 @@
 - The Digital clock displays time in the format "HH:MM"
 
 ### Steps
-- Start Android studio and select empty layout, click finish
+- Start Android studio and select empty layout, click <strong>finish</strong>
 - Change layout to "RelativeLayout" layout
 - Add two Views, "AnalogClock" and "DigitalClock"
 - Customize layouts as desired, fix constraints, add text color and background as desired
@@ -56,3 +56,6 @@
 
 </code>
 </pre>
+
+#### Sample Display
+<img src="https://user-images.githubusercontent.com/77758884/142721872-9f2c2e8a-5af9-4202-afe6-d968e5eb482c.png" width=200px />
